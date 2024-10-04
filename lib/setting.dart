@@ -907,7 +907,7 @@ class _SettingPageState extends State<SettingPage> {
                                           onPressed: () {
                                             Navigator.pop(context);
                                             launch(
-                                                "https://github.com/Sangwan5688/BlackHole/blob/main/BlackHole%20v${snapshot.value}.apk");
+                                                "https://github.com/xaekks/kissumussic/blob/main/kissumusic%20v${snapshot.value}.apk");
                                           },
                                           child: Text('Update')),
                                       SizedBox(
@@ -977,7 +977,7 @@ class _SettingPageState extends State<SettingPage> {
                         subtitle: Text('Let you friends know about us'),
                         onTap: () {
                           Share.share(
-                              'Hey! Check out this cool music player app: https://github.com/Sangwan5688/BlackHole');
+                              'Hey! Check out this cool music player app: https://github.com/xaekks/kissumusic');
                         },
                         dense: true,
                       ),
@@ -1026,7 +1026,7 @@ class _SettingPageState extends State<SettingPage> {
                                             onPressed: () {
                                               Navigator.pop(context);
                                               launch(
-                                                  "https://mail.google.com/mail/?extsrc=mailto&url=mailto%3A%3Fto%3Dblackholeyoucantescape%40gmail.com%26subject%3DRegarding%2520Mobile%2520App"
+                                                  "https://mail.google.com/mail/?extsrc=mailto&url=mailto%3A%3Fto%3Dxaekks%40gmail.com%26subject%3DRegarding%2520Mobile%2520App"
                                                   // "https://mail.google.com/mail/?view=cm&fs=1&to=blackholeyoucantescape@gmail.com&su=Regarding+Mobile+App"
                                                   );
                                             },
@@ -1043,7 +1043,7 @@ class _SettingPageState extends State<SettingPage> {
                                             onPressed: () {
                                               Navigator.pop(context);
                                               launch(
-                                                  "https://t.me/sangwan5688");
+                                                  "https://t.me/xaekks");
                                             },
                                           ),
                                           Text('Telegram'),
@@ -1058,7 +1058,7 @@ class _SettingPageState extends State<SettingPage> {
                                             onPressed: () {
                                               Navigator.pop(context);
                                               launch(
-                                                  "https://instagram.com/sangwan5688");
+                                                  "https://instagram.com/xaekks');
                                             },
                                           ),
                                           Text('Instagram'),
@@ -1086,7 +1086,7 @@ class _SettingPageState extends State<SettingPage> {
               padding: const EdgeInsets.fromLTRB(5, 30, 5, 20),
               child: Center(
                 child: Text(
-                  'Made with ♥ by Ankit Sangwan',
+                  'Build With 💞 by Kissu',
                   style: TextStyle(fontSize: 12),
                 ),
               ),
