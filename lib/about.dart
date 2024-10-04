@@ -89,7 +89,7 @@ class _AboutScreenState extends State<AboutScreen> {
                             Image(image: AssetImage('assets/ic_launcher.png'))),
                     SizedBox(height: 20),
                     Text(
-                      'BlackHole',
+                      'KissuMusic',
                       style:
                           TextStyle(fontSize: 35, fontWeight: FontWeight.bold),
                     ),
