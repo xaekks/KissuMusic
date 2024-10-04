@@ -124,7 +124,7 @@ class _AboutScreenState extends State<AboutScreen> {
                   padding: const EdgeInsets.fromLTRB(5, 30, 5, 20),
                   child: Center(
                     child: Text(
-                      'Made with ♥ for You',
+                      'Made with ♥ by Kissu',
                       style: TextStyle(fontSize: 12),
                       textAlign: TextAlign.center,
                     ),
