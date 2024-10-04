@@ -53,7 +53,7 @@ class _MyAppState extends State<MyApp> {
     ]);
 
     return MaterialApp(
-      title: 'Black',
+      title: 'Blue',
       themeMode: currentTheme.currentTheme(), //system,
       theme: ThemeData(
         textSelectionTheme: TextSelectionThemeData(
