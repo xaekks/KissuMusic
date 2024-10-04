@@ -134,7 +134,7 @@ class _AuthScreenState extends State<AuthScreen> {
                             ),
                             children: <TextSpan>[
                               TextSpan(
-                                text: 'BlackHole',
+                                text: 'kissumusic',
                                 style: TextStyle(
                                   // color: Theme.of(context).accentColor,
                                   fontWeight: FontWeight.bold,
