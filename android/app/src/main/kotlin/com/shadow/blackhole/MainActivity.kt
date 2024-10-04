@@ -1,4 +1,4 @@
-package com.shadow.blackhole
+package xyz.kissu.music
 
 import io.flutter.embedding.android.FlutterActivity
 
